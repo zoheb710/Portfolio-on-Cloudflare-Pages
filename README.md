@@ -1,2 +1,12 @@
-# Portfolio-on-Cloudflare-Pages
-🚀 Host Your DevOps Portfolio on Cloudflare Pages Free Tier · Custom GoDaddy Domain · HTTPS Included
+🚀 Host Your DevOps Portfolio on Cloudflare Pages
+Free Tier · Custom GoDaddy Domain · HTTPS Included
+
+
+| Component | Role |
+|-----------|------|
+| ☁️ Cloudflare Pages | Free static hosting on global CDN |
+| 🌐 GoDaddy Domain | Domain registration only — DNS moves to Cloudflare |
+| 🔒 SSL/TLS | Auto-provisioned free certificate |
+| ♾️ Bandwidth | Unlimited on free plan |
+
+🧱 Stack Overview
